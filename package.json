@@ -9,10 +9,12 @@
   "dependencies": {
     "pinia": "^2.0.13",
     "vue": "^3.2.33",
+    "vue-i18n": "^8.27.1",
     "vue-router": "^4.0.14"
   },
   "devDependencies": {
     "@vitejs/plugin-vue": "^2.3.1",
+    "unplugin-auto-import": "^0.8.6",
     "vite": "^2.9.5"
   }
 }
